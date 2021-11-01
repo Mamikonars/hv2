@@ -546,6 +546,11 @@ a {
   transition: background-color 0.5s;
 }
 
+.main-text {
+  background-color: #cee6fe;
+   color: #121314;
+}
+
 .main-heading,
 .page-heading {
   font-size: 36px;
